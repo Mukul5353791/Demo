@@ -40,6 +40,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     println("This is my second print message")
     println("This is my fourth print message")
     println("This is my fifth print message")
+    println("This is my sixth print message")
 }
 
 @Preview(showBackground = true)
