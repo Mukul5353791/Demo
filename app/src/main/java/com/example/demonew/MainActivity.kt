@@ -36,6 +36,10 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         text = "Hello $name!",
         modifier = modifier
     )
+    println("This is my first print message")
+    println("This is my second print message")
+    println("This is my fourth print message")
+    println("This is my fifth print message")
 }
 
 @Preview(showBackground = true)
