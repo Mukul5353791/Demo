@@ -38,10 +38,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
     println("This is my first print message")
     println("This is my second print message")
-
-
-    println("This is my third print message")
-
 }
 
 @Preview(showBackground = true)
